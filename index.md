@@ -1,7 +1,9 @@
-$PSVersionTable
+Programacion para Seguridad Informatica
+Comandos utilizados: 
+* $PSVersionTable
 
-Get-ExecutionPolicy
+* Get-ExecutionPolicy
 
-Get-ComputerInfo | Select-Object OsName, WindowsEditionId, OsVersion
+* Get-ComputerInfo | Select-Object OsName, WindowsEditionId, OsVersion
 
-Systeminfo
+* Systeminfo
